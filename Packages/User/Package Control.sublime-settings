@@ -2,6 +2,7 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"Alignment",
 		"Autoprefixer",
 		"Blade Snippets",
 		"Blade Spacer",
@@ -9,6 +10,7 @@
 		"Color Highlighter",
 		"Compass",
 		"CSS3_Syntax",
+		"DocBlockr",
 		"Emmet",
 		"ERB Snippets",
 		"FakeDataGenerator",
@@ -30,6 +32,7 @@
 		"Pretty YAML",
 		"Sass",
 		"SASS Snippets",
+		"SideBarEnhancements",
 		"Theme - Piatto"
 	]
 }
