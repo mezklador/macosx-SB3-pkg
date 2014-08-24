@@ -1,0 +1,35 @@
+{
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Autoprefixer",
+		"Blade Snippets",
+		"Blade Spacer",
+		"Bootstrap 3 Snippets",
+		"Color Highlighter",
+		"Compass",
+		"CSS3_Syntax",
+		"Emmet",
+		"ERB Snippets",
+		"FakeDataGenerator",
+		"Haml",
+		"Hipster Ipsum",
+		"Jekyll",
+		"Laravel 4 Facades",
+		"Laravel 4 Snippets",
+		"Laravel Blade Highlighter",
+		"Laravel Bootstrapper Snippets",
+		"Libraries from CDN",
+		"LiveReload",
+		"Markdown Extended",
+		"PHP Companion",
+		"PHP Getters and Setters",
+		"PHP Modern",
+		"PhpNamespace",
+		"PHPUnit",
+		"Pretty YAML",
+		"Sass",
+		"SASS Snippets",
+		"Theme - Piatto"
+	]
+}
